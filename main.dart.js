@@ -38959,7 +38959,7 @@ a0O(){var s,r,q=this,p=null,o=$.aAg(),n=t.VO
 o=A.arw(A.bF(A.b([A.bF(p,o,"VOC\xca FOI"),A.bF(p,o,"\n"),A.bF(p,o,"CONVIDADO")],n),p,p),B.bi)
 s=$.aAe()
 r=t.E
-r=A.b([A.JZ(0,A.nx(A.b([new A.j6(new A.ak2(q),p),A.aqw(A.nx(A.b([new A.d1(B.CK,new A.h2(B.yO,p,p,o,p),p),B.k_,A.arw(A.bF(A.b([A.bF(p,s,"TER\xc7A-FEIRA"),A.bF(p,p,"\n"),A.bF(p,s,"01/07/2025"),A.bF(p,p,"\n"),A.bF(p,s,"19:30h")],n),p,p),B.bi),B.k_,A.arw(A.bF(A.b([A.bF(p,s,"ROUTE BURGER"),A.bF(p,p,"\n"),A.bF(p,s,"AV. DUQUE DE CAXIAS, 926")],n),p,p),B.bi),q.a0L(),B.k_,new A.j6(new A.ak3(q),p)],r),B.aA,B.e_,B.e0),1,p),new A.j6(new A.ak4(q),p)],r),B.ca,B.e_,B.e0))],r)
+r=A.b([A.JZ(0,A.nx(A.b([new A.j6(new A.ak2(q),p),A.aqw(A.nx(A.b([new A.d1(B.CK,new A.h2(B.yO,p,p,o,p),p),B.k_,A.arw(A.bF(A.b([A.bF(p,s,"TER\xc7A-FEIRA"),A.bF(p,p,"\n"),A.bF(p,s,"01/07/2025"),A.bF(p,p,"\n"),A.bF(p,s,"20:30h")],n),p,p),B.bi),B.k_,A.arw(A.bF(A.b([A.bF(p,s,"ROUTE BURGER"),A.bF(p,p,"\n"),A.bF(p,s,"AV. DUQUE DE CAXIAS, 926")],n),p,p),B.bi),q.a0L(),B.k_,new A.j6(new A.ak3(q),p)],r),B.aA,B.e_,B.e0),1,p),new A.j6(new A.ak4(q),p)],r),B.ca,B.e_,B.e0))],r)
 o=q.d
 if(o.gq()!=null&&q.e.gq()!=null){o=o.gq()
 n=q.gNh()
